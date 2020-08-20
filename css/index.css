@@ -1,5 +1,5 @@
 body{
-    background-image: url('./images/space.jpg');
+    background-image: url('../images/space.jpg');
     background-position: center;
     background-size: cover;
     padding: 0;
@@ -26,12 +26,12 @@ body{
 }
 
 .shooter {
-    background-image: url('./images/ship.png');
+    background-image: url('../images/ship.png');
     background-position: center;
     background-size: cover;
 }
 .invader{
-    background-image: url('./images/alien.png');
+    background-image: url('../images/alien.png');
     border-radius: 10px;
     background-position: center;
     background-size: cover;
